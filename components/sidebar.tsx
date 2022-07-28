@@ -1,13 +1,13 @@
 import React from "react";
-import NextImage from 'next/image';
-import NextLink from 'next/link';
+import NextImage from "next/image";
+import NextLink from "next/link";
 import {
     Box,
     List,
     ListItem,
     ListIcon,
     Divider,
-    Center,
+    //Center,
     LinkBox,
     LinkOverlay
 } from '@chakra-ui/layout';
